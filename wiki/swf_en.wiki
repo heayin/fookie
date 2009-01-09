@@ -1,0 +1,10 @@
+#labels Phase-Implementation
+[http://code.google.com/p/fookie/wiki/docs_en <<Back to Documentation Home]
+
+= swf =
+
+*Read Only*. If you set it, you may get errors in your application.
+
+When the swf is loaded this will refer to the swf object, otherwise this will return null.
+
+[http://code.google.com/p/fookie/wiki/docs_en <<Back to Documentation Home]
