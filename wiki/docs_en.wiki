@@ -1,0 +1,25 @@
+#labels Featured,Phase-Implementation
+
+= Documentation =
+
+== Properties ==
+
+  * [http://code.google.com/p/fookie/wiki/isReady_en isReady]
+  * [http://code.google.com/p/fookie/wiki/swf_en swf]
+  * [http://code.google.com/p/fookie/wiki/swfId_en swfId]
+  * [http://code.google.com/p/fookie/wiki/application_en application]
+  * [http://code.google.com/p/fookie/wiki/path_en path]
+  * [http://code.google.com/p/fookie/wiki/expires_en expires]
+  * [http://code.google.com/p/fookie/wiki/secure_en secure]
+
+== Methods ==
+
+  * [http://code.google.com/p/fookie/wiki/init_en init]
+  * [http://code.google.com/p/fookie/wiki/write_en write]
+  * [http://code.google.com/p/fookie/wiki/read_en read]
+  * [http://code.google.com/p/fookie/wiki/remove_en remove]
+  * [http://code.google.com/p/fookie/wiki/clear_en clear]
+
+== Events ==
+
+  * [http://code.google.com/p/fookie/wiki/onready_en onready]
