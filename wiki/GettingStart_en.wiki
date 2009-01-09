@@ -1,4 +1,4 @@
-#labels Featured,Phase-Implementation
+#labels Phase-Implementation
 Use Fookie is very easy, there are only 4 steps:
 
 ==1. Download swf and script file==
