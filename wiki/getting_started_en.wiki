@@ -29,7 +29,7 @@ Fookie.init('fookie.swf', { 'onready': ready });
 
 ==4. Write or read data==
 
-Fookie supply these method for you to read and write data:
+Fookie supplies these methods for you to read and write data:
 
   * Fookie.read(key);
   * Fookie.write(key, value);
