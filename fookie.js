@@ -3,9 +3,9 @@
  * @Licence:	MIT License (http://www.opensource.org/licenses/mit-license.php)
  * @Author: 	xushengs@gmail.com
  * @Website: 	http://code.google.com/p/fookie/
- * @Version: 	0.1
+ * @Version: 	0.1.1
  * @Creation: 	Jan 8, 2009
- * @Modified: 	Jan 8, 2009
+ * @Modified: 	July 20, 2009
  * @Description:
  *		A tool class to user swf to save data to local
  */
@@ -155,7 +155,7 @@ var Fookie = {
         var s = options.secure ? true : this.secure;
 
         if (this.swf && this.swf.clear) {
-            return this.swf.remove(a, p, s);
+            return this.swf.clear(a, p, s);
         }
     },
 
