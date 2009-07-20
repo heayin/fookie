@@ -155,7 +155,7 @@ var Fookie = {
         var s = options.secure ? true : this.secure;
 
         if (this.swf && this.swf.clear) {
-            return this.swf.clear(a, p, s);
+            return this.swf.remove(a, p, s);
         }
     },
 
