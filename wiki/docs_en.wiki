@@ -1,12 +1,11 @@
 #labels Featured,Phase-Implementation
-
 = Documentation =
 
 == Properties ==
 
-  * [http://code.google.com/p/fookie/wiki/isReady_en isReady]
-  * [http://code.google.com/p/fookie/wiki/swf_en swf]
-  * [http://code.google.com/p/fookie/wiki/swfId_en swfId]
+  * ~~[http://code.google.com/p/fookie/wiki/isReady_en isReady]~~
+  * ~~[http://code.google.com/p/fookie/wiki/swf_en swf]~~
+  * ~~[http://code.google.com/p/fookie/wiki/swfId_en swfId]~~
   * [http://code.google.com/p/fookie/wiki/application_en application]
   * [http://code.google.com/p/fookie/wiki/path_en path]
   * [http://code.google.com/p/fookie/wiki/expires_en expires]
