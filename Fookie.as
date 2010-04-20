@@ -13,6 +13,7 @@
 	 */
 	import flash.external.ExternalInterface;
 	import flash.net.SharedObject;
+	import flash.system.Security;
 
 	public class Fookie {		
 		/**
@@ -162,6 +163,9 @@
 		 * 
 		 */
 		public static function main():void {
+			Security.allowDomain('*');
+			Security.allowInsecureDomain('*');
+			
 			// add external methods for javascript
 			ExternalInterface.addCallback("write", Fookie.writeData);
 			ExternalInterface.addCallback("read",  Fookie.readData);
