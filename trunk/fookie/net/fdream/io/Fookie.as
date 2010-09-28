@@ -1,4 +1,5 @@
-﻿package {
+﻿package net.fdream.io
+{
 	/**
 	 * @Script:		Fookie.as
 	 * @Licence:	MIT License (http://www.opensource.org/licenses/mit-license.php)
