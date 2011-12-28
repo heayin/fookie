@@ -11,7 +11,7 @@
 	 * @Description:
 	 *    Use socket to get HTTP headers, status and content
 	 *
-	 * @Useage:
+	 * @Usage:
 	 *    see it in HTTPLoader.fla
 	 *    
 	 * @Events:
